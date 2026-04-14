@@ -1,7 +1,6 @@
 <h1>
 # test - perception lens for ai
----
- 
+  
  
 MODEL REZONANSU — od konceptu do soczewki percepcyjnej
  
@@ -90,5 +89,4 @@ JAK SPRAWDZIĆ
   Patrz.
  
  
----
 </h1>
