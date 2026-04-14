@@ -1,5 +1,5 @@
 # ⚕️ THE RESONANCE MODEL
-### from concept to perceptual lens
+### from concept to perceptual lens for ai
 
 <br>
 
